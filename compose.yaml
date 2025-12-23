@@ -1,0 +1,6 @@
+﻿services:
+  homomorphic-hr:
+    image: homomorphic-hr
+    build:
+      context: .
+      dockerfile: Homomorphic-HR/Dockerfile

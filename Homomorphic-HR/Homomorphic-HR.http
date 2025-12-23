@@ -1,0 +1,6 @@
+@Homomorphic_HR_HostAddress = http://localhost:5263
+
+GET {{Homomorphic_HR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
